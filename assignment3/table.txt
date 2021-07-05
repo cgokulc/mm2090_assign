@@ -1,0 +1,30 @@
+Timetable is-a table
+Timetable has-row Mon
+Timetable has-row Tue
+Timetable has-row Wed
+Timetable has-row Thur
+Timetable has-row Fri
+Mon has-slot Slot-1
+Mon has-slot Slot-2
+Tue has-slot Slot-3
+Wed has-slot Slot-4
+Thur has-slot Slot-5
+Thur has-slot Slot-6
+Fri has-slot Slot-7
+Fri has-slot Slot-8
+Slot-1 starts-at 9:00 Hrs
+Slot-1 ends-at 10:59 Hrs
+Slot-2 starts-at 14:00 Hrs
+Slot-2 ends-at 15:59 Hrs
+Slot-3 starts-at 10:00 Hrs
+Slot-3 ends-at 11:59 Hrs
+Slot-4 starts-at 12:00 Hrs
+Slot-4 ends-at 13:59 Hrs
+Slot-5 starts-at 8:00 Hrs
+Slot-5 ends-at 9:59 Hrs
+Slot-6 starts-at 16:00 Hrs
+Slot-6 ends-at 17:59 Hrs
+Slot-7 starts-at 12:00 Hrs
+Slot-7 ends-at 13:59 Hrs
+Slot-8 starts-at 14:00 Hrs
+Slot-8 ends-at 15:59 Hrs
